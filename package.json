@@ -25,10 +25,10 @@
     "coverage-upload-codacy": "test -f ./coverage/lcov.info && cat ./coverage/lcov.info | codacy-coverage"
   },
   "devDependencies": {
-    "tape": "^4.2.0",
-    "blue-tape": "^0.1.10",
-    "istanbul": "^0.4.0",
-    "nyc": "^5.3.0",
+    "tape": "^4.4.0",
+    "blue-tape": "^0.1.11",
+    "istanbul": "^0.4.2",
+    "nyc": "^5.5.0",
     "faucet": "^0.0.1",
     "coveralls": "^2.11.6",
     "codecov.io": "^0.1.6",
